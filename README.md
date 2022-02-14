@@ -2,7 +2,7 @@
 
 Criando uma rede neural artificial para detecção de pneumonia em raio-x.
 
-Gerando uma janela para classificação de raio-x:
+Gerando uma janela para classificação de raio-x. Conformes as classes:
 - normal
 - pneumonia
 
